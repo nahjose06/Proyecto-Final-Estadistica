@@ -1,0 +1,399 @@
+name,mpg,cylinders,displacement,horsepower,model_year,origin
+chevrolet chevelle malibu,18,8,307,130,70,usa
+buick skylark 320,15,8,350,165,70,usa
+plymouth satellite,18,8,318,150,70,usa
+amc rebel sst,16,8,304,150,70,usa
+ford torino,17,8,302,140,70,usa
+ford galaxie 500,15,8,429,198,70,usa
+chevrolet impala,14,8,454,220,70,usa
+plymouth fury iii,14,8,440,215,70,usa
+pontiac catalina,14,8,455,225,70,usa
+amc ambassador dpl,15,8,390,190,70,usa
+dodge challenger se,15,8,383,170,70,usa
+plymouth 'cuda 340,14,8,340,160,70,usa
+chevrolet monte carlo,15,8,400,150,70,usa
+buick estate wagon (sw),14,8,455,225,70,usa
+toyota corona mark ii,24,4,113,95,70,japan
+plymouth duster,22,6,198,95,70,usa
+amc hornet,18,6,199,97,70,usa
+ford maverick,21,6,200,85,70,usa
+datsun pl510,27,4,97,88,70,japan
+volkswagen 1131 deluxe sedan,26,4,97,46,70,europe
+peugeot 504,25,4,110,87,70,europe
+audi 100 ls,24,4,107,90,70,europe
+saab 99e,25,4,104,95,70,europe
+bmw 2002,26,4,121,113,70,europe
+amc gremlin,21,6,199,90,70,usa
+ford f250,10,8,360,215,70,usa
+chevy c20,10,8,307,200,70,usa
+dodge d200,11,8,318,210,70,usa
+hi 1200d,9,8,304,193,70,usa
+datsun pl510,27,4,97,88,71,japan
+chevrolet vega 2300,28,4,140,90,71,usa
+toyota corona,25,4,113,95,71,japan
+ford pinto,25,4,98,,71,usa
+amc gremlin,19,6,232,100,71,usa
+plymouth satellite custom,16,6,225,105,71,usa
+chevrolet chevelle malibu,17,6,250,100,71,usa
+ford torino 500,19,6,250,88,71,usa
+amc matador,18,6,232,100,71,usa
+chevrolet impala,14,8,350,165,71,usa
+pontiac catalina brougham,14,8,400,175,71,usa
+ford galaxie 500,14,8,351,153,71,usa
+plymouth fury iii,14,8,318,150,71,usa
+dodge monaco (sw),12,8,383,180,71,usa
+ford country squire (sw),13,8,400,170,71,usa
+pontiac safari (sw),13,8,400,175,71,usa
+amc hornet sportabout (sw),18,6,258,110,71,usa
+chevrolet vega (sw),22,4,140,72,71,usa
+pontiac firebird,19,6,250,100,71,usa
+ford mustang,18,6,250,88,71,usa
+mercury capri 2000,23,4,122,86,71,usa
+opel 1900,28,4,116,90,71,europe
+peugeot 304,30,4,79,70,71,europe
+fiat 124b,30,4,88,76,71,europe
+toyota corolla 1200,31,4,71,65,71,japan
+datsun 1200,35,4,72,69,71,japan
+volkswagen model 111,27,4,97,60,71,europe
+plymouth cricket,26,4,91,70,71,usa
+toyota corona hardtop,24,4,113,95,72,japan
+dodge colt hardtop,25,4,97.5,80,72,usa
+volkswagen type 3,23,4,97,54,72,europe
+chevrolet vega,20,4,140,90,72,usa
+ford pinto runabout,21,4,122,86,72,usa
+chevrolet impala,13,8,350,165,72,usa
+pontiac catalina,14,8,400,175,72,usa
+plymouth fury iii,15,8,318,150,72,usa
+ford galaxie 500,14,8,351,153,72,usa
+amc ambassador sst,17,8,304,150,72,usa
+mercury marquis,11,8,429,208,72,usa
+buick lesabre custom,13,8,350,155,72,usa
+oldsmobile delta 88 royale,12,8,350,160,72,usa
+chrysler newport royal,13,8,400,190,72,usa
+mazda rx2 coupe,19,3,70,97,72,japan
+amc matador (sw),15,8,304,150,72,usa
+chevrolet chevelle concours (sw),13,8,307,130,72,usa
+ford gran torino (sw),13,8,302,140,72,usa
+plymouth satellite custom (sw),14,8,318,150,72,usa
+volvo 145e (sw),18,4,121,112,72,europe
+volkswagen 411 (sw),22,4,121,76,72,europe
+peugeot 504 (sw),21,4,120,87,72,europe
+renault 12 (sw),26,4,96,69,72,europe
+ford pinto (sw),22,4,122,86,72,usa
+datsun 510 (sw),28,4,97,92,72,japan
+toyouta corona mark ii (sw),23,4,120,97,72,japan
+dodge colt (sw),28,4,98,80,72,usa
+toyota corolla 1600 (sw),27,4,97,88,72,japan
+buick century 350,13,8,350,175,73,usa
+amc matador,14,8,304,150,73,usa
+chevrolet malibu,13,8,350,145,73,usa
+ford gran torino,14,8,302,137,73,usa
+dodge coronet custom,15,8,318,150,73,usa
+mercury marquis brougham,12,8,429,198,73,usa
+chevrolet caprice classic,13,8,400,150,73,usa
+ford ltd,13,8,351,158,73,usa
+plymouth fury gran sedan,14,8,318,150,73,usa
+chrysler new yorker brougham,13,8,440,215,73,usa
+buick electra 225 custom,12,8,455,225,73,usa
+amc ambassador brougham,13,8,360,175,73,usa
+plymouth valiant,18,6,225,105,73,usa
+chevrolet nova custom,16,6,250,100,73,usa
+amc hornet,18,6,232,100,73,usa
+ford maverick,18,6,250,88,73,usa
+plymouth duster,23,6,198,95,73,usa
+volkswagen super beetle,26,4,97,46,73,europe
+chevrolet impala,11,8,400,150,73,usa
+ford country,12,8,400,167,73,usa
+plymouth custom suburb,13,8,360,170,73,usa
+oldsmobile vista cruiser,12,8,350,180,73,usa
+amc gremlin,18,6,232,100,73,usa
+toyota carina,20,4,97,88,73,japan
+chevrolet vega,21,4,140,72,73,usa
+datsun 610,22,4,108,94,73,japan
+maxda rx3,18,3,70,90,73,japan
+ford pinto,19,4,122,85,73,usa
+mercury capri v6,21,6,155,107,73,usa
+fiat 124 sport coupe,26,4,98,90,73,europe
+chevrolet monte carlo s,15,8,350,145,73,usa
+pontiac grand prix,16,8,400,230,73,usa
+fiat 128,29,4,68,49,73,europe
+opel manta,24,4,116,75,73,europe
+audi 100ls,20,4,114,91,73,europe
+volvo 144ea,19,4,121,112,73,europe
+dodge dart custom,15,8,318,150,73,usa
+saab 99le,24,4,121,110,73,europe
+toyota mark ii,20,6,156,122,73,japan
+oldsmobile omega,11,8,350,180,73,usa
+plymouth duster,20,6,198,95,74,usa
+ford maverick,21,6,200,,74,usa
+amc hornet,19,6,232,100,74,usa
+chevrolet nova,15,6,250,100,74,usa
+datsun b210,31,4,79,67,74,japan
+ford pinto,26,4,122,80,74,usa
+toyota corolla 1200,32,4,71,65,74,japan
+chevrolet vega,25,4,140,75,74,usa
+chevrolet chevelle malibu classic,16,6,250,100,74,usa
+amc matador,16,6,258,110,74,usa
+plymouth satellite sebring,18,6,225,105,74,usa
+ford gran torino,16,8,302,140,74,usa
+buick century luxus (sw),13,8,350,150,74,usa
+dodge coronet custom (sw),14,8,318,150,74,usa
+ford gran torino (sw),14,8,302,140,74,usa
+amc matador (sw),14,8,304,150,74,usa
+audi fox,29,4,98,83,74,europe
+volkswagen dasher,26,4,79,67,74,europe
+opel manta,26,4,97,78,74,europe
+toyota corona,31,4,76,52,74,japan
+datsun 710,32,4,83,61,74,japan
+dodge colt,28,4,90,75,74,usa
+fiat 128,24,4,90,75,74,europe
+fiat 124 tc,26,4,116,75,74,europe
+honda civic,24,4,120,97,74,japan
+subaru,26,4,108,93,74,japan
+fiat x1.9,31,4,79,67,74,europe
+plymouth valiant custom,19,6,225,95,75,usa
+chevrolet nova,18,6,250,105,75,usa
+mercury monarch,15,6,250,72,75,usa
+ford maverick,15,6,250,72,75,usa
+pontiac catalina,16,8,400,170,75,usa
+chevrolet bel air,15,8,350,145,75,usa
+plymouth grand fury,16,8,318,150,75,usa
+ford ltd,14,8,351,148,75,usa
+buick century,17,6,231,110,75,usa
+chevroelt chevelle malibu,16,6,250,105,75,usa
+amc matador,15,6,258,110,75,usa
+plymouth fury,18,6,225,95,75,usa
+buick skyhawk,21,6,231,110,75,usa
+chevrolet monza 2+2,20,8,262,110,75,usa
+ford mustang ii,13,8,302,129,75,usa
+toyota corolla,29,4,97,75,75,japan
+ford pinto,23,4,140,83,75,usa
+amc gremlin,20,6,232,100,75,usa
+pontiac astro,23,4,140,78,75,usa
+toyota corona,24,4,134,96,75,japan
+volkswagen dasher,25,4,90,71,75,europe
+datsun 710,24,4,119,97,75,japan
+ford pinto,18,6,171,97,75,usa
+volkswagen rabbit,29,4,90,70,75,europe
+amc pacer,19,6,232,90,75,usa
+audi 100ls,23,4,115,95,75,europe
+peugeot 504,23,4,120,88,75,europe
+volvo 244dl,22,4,121,98,75,europe
+saab 99le,25,4,121,115,75,europe
+honda civic cvcc,33,4,91,53,75,japan
+fiat 131,28,4,107,86,76,europe
+opel 1900,25,4,116,81,76,europe
+capri ii,25,4,140,92,76,usa
+dodge colt,26,4,98,79,76,usa
+renault 12tl,27,4,101,83,76,europe
+chevrolet chevelle malibu classic,17.5,8,305,140,76,usa
+dodge coronet brougham,16,8,318,150,76,usa
+amc matador,15.5,8,304,120,76,usa
+ford gran torino,14.5,8,351,152,76,usa
+plymouth valiant,22,6,225,100,76,usa
+chevrolet nova,22,6,250,105,76,usa
+ford maverick,24,6,200,81,76,usa
+amc hornet,22.5,6,232,90,76,usa
+chevrolet chevette,29,4,85,52,76,usa
+chevrolet woody,24.5,4,98,60,76,usa
+vw rabbit,29,4,90,70,76,europe
+honda civic,33,4,91,53,76,japan
+dodge aspen se,20,6,225,100,76,usa
+ford granada ghia,18,6,250,78,76,usa
+pontiac ventura sj,18.5,6,250,110,76,usa
+amc pacer d/l,17.5,6,258,95,76,usa
+volkswagen rabbit,29.5,4,97,71,76,europe
+datsun b-210,32,4,85,70,76,japan
+toyota corolla,28,4,97,75,76,japan
+ford pinto,26.5,4,140,72,76,usa
+volvo 245,20,4,130,102,76,europe
+plymouth volare premier v8,13,8,318,150,76,usa
+peugeot 504,19,4,120,88,76,europe
+toyota mark ii,19,6,156,108,76,japan
+mercedes-benz 280s,16.5,6,168,120,76,europe
+cadillac seville,16.5,8,350,180,76,usa
+chevy c10,13,8,350,145,76,usa
+ford f108,13,8,302,130,76,usa
+dodge d100,13,8,318,150,76,usa
+honda accord cvcc,31.5,4,98,68,77,japan
+buick opel isuzu deluxe,30,4,111,80,77,usa
+renault 5 gtl,36,4,79,58,77,europe
+plymouth arrow gs,25.5,4,122,96,77,usa
+datsun f-10 hatchback,33.5,4,85,70,77,japan
+chevrolet caprice classic,17.5,8,305,145,77,usa
+oldsmobile cutlass supreme,17,8,260,110,77,usa
+dodge monaco brougham,15.5,8,318,145,77,usa
+mercury cougar brougham,15,8,302,130,77,usa
+chevrolet concours,17.5,6,250,110,77,usa
+buick skylark,20.5,6,231,105,77,usa
+plymouth volare custom,19,6,225,100,77,usa
+ford granada,18.5,6,250,98,77,usa
+pontiac grand prix lj,16,8,400,180,77,usa
+chevrolet monte carlo landau,15.5,8,350,170,77,usa
+chrysler cordoba,15.5,8,400,190,77,usa
+ford thunderbird,16,8,351,149,77,usa
+volkswagen rabbit custom,29,4,97,78,77,europe
+pontiac sunbird coupe,24.5,4,151,88,77,usa
+toyota corolla liftback,26,4,97,75,77,japan
+ford mustang ii 2+2,25.5,4,140,89,77,usa
+chevrolet chevette,30.5,4,98,63,77,usa
+dodge colt m/m,33.5,4,98,83,77,usa
+subaru dl,30,4,97,67,77,japan
+volkswagen dasher,30.5,4,97,78,77,europe
+datsun 810,22,6,146,97,77,japan
+bmw 320i,21.5,4,121,110,77,europe
+mazda rx-4,21.5,3,80,110,77,japan
+volkswagen rabbit custom diesel,43.1,4,90,48,78,europe
+ford fiesta,36.1,4,98,66,78,usa
+mazda glc deluxe,32.8,4,78,52,78,japan
+datsun b210 gx,39.4,4,85,70,78,japan
+honda civic cvcc,36.1,4,91,60,78,japan
+oldsmobile cutlass salon brougham,19.9,8,260,110,78,usa
+dodge diplomat,19.4,8,318,140,78,usa
+mercury monarch ghia,20.2,8,302,139,78,usa
+pontiac phoenix lj,19.2,6,231,105,78,usa
+chevrolet malibu,20.5,6,200,95,78,usa
+ford fairmont (auto),20.2,6,200,85,78,usa
+ford fairmont (man),25.1,4,140,88,78,usa
+plymouth volare,20.5,6,225,100,78,usa
+amc concord,19.4,6,232,90,78,usa
+buick century special,20.6,6,231,105,78,usa
+mercury zephyr,20.8,6,200,85,78,usa
+dodge aspen,18.6,6,225,110,78,usa
+amc concord d/l,18.1,6,258,120,78,usa
+chevrolet monte carlo landau,19.2,8,305,145,78,usa
+buick regal sport coupe (turbo),17.7,6,231,165,78,usa
+ford futura,18.1,8,302,139,78,usa
+dodge magnum xe,17.5,8,318,140,78,usa
+chevrolet chevette,30,4,98,68,78,usa
+toyota corona,27.5,4,134,95,78,japan
+datsun 510,27.2,4,119,97,78,japan
+dodge omni,30.9,4,105,75,78,usa
+toyota celica gt liftback,21.1,4,134,95,78,japan
+plymouth sapporo,23.2,4,156,105,78,usa
+oldsmobile starfire sx,23.8,4,151,85,78,usa
+datsun 200-sx,23.9,4,119,97,78,japan
+audi 5000,20.3,5,131,103,78,europe
+volvo 264gl,17,6,163,125,78,europe
+saab 99gle,21.6,4,121,115,78,europe
+peugeot 604sl,16.2,6,163,133,78,europe
+volkswagen scirocco,31.5,4,89,71,78,europe
+honda accord lx,29.5,4,98,68,78,japan
+pontiac lemans v6,21.5,6,231,115,79,usa
+mercury zephyr 6,19.8,6,200,85,79,usa
+ford fairmont 4,22.3,4,140,88,79,usa
+amc concord dl 6,20.2,6,232,90,79,usa
+dodge aspen 6,20.6,6,225,110,79,usa
+chevrolet caprice classic,17,8,305,130,79,usa
+ford ltd landau,17.6,8,302,129,79,usa
+mercury grand marquis,16.5,8,351,138,79,usa
+dodge st. regis,18.2,8,318,135,79,usa
+buick estate wagon (sw),16.9,8,350,155,79,usa
+ford country squire (sw),15.5,8,351,142,79,usa
+chevrolet malibu classic (sw),19.2,8,267,125,79,usa
+chrysler lebaron town @ country (sw),18.5,8,360,150,79,usa
+vw rabbit custom,31.9,4,89,71,79,europe
+maxda glc deluxe,34.1,4,86,65,79,japan
+dodge colt hatchback custom,35.7,4,98,80,79,usa
+amc spirit dl,27.4,4,121,80,79,usa
+mercedes benz 300d,25.4,5,183,77,79,europe
+cadillac eldorado,23,8,350,125,79,usa
+peugeot 504,27.2,4,141,71,79,europe
+oldsmobile cutlass salon brougham,23.9,8,260,90,79,usa
+plymouth horizon,34.2,4,105,70,79,usa
+plymouth horizon tc3,34.5,4,105,70,79,usa
+datsun 210,31.8,4,85,65,79,japan
+fiat strada custom,37.3,4,91,69,79,europe
+buick skylark limited,28.4,4,151,90,79,usa
+chevrolet citation,28.8,6,173,115,79,usa
+oldsmobile omega brougham,26.8,6,173,115,79,usa
+pontiac phoenix,33.5,4,151,90,79,usa
+vw rabbit,41.5,4,98,76,80,europe
+toyota corolla tercel,38.1,4,89,60,80,japan
+chevrolet chevette,32.1,4,98,70,80,usa
+datsun 310,37.2,4,86,65,80,japan
+chevrolet citation,28,4,151,90,80,usa
+ford fairmont,26.4,4,140,88,80,usa
+amc concord,24.3,4,151,90,80,usa
+dodge aspen,19.1,6,225,90,80,usa
+audi 4000,34.3,4,97,78,80,europe
+toyota corona liftback,29.8,4,134,90,80,japan
+mazda 626,31.3,4,120,75,80,japan
+datsun 510 hatchback,37,4,119,92,80,japan
+toyota corolla,32.2,4,108,75,80,japan
+mazda glc,46.6,4,86,65,80,japan
+dodge colt,27.9,4,156,105,80,usa
+datsun 210,40.8,4,85,65,80,japan
+vw rabbit c (diesel),44.3,4,90,48,80,europe
+vw dasher (diesel),43.4,4,90,48,80,europe
+audi 5000s (diesel),36.4,5,121,67,80,europe
+mercedes-benz 240d,30,4,146,67,80,europe
+honda civic 1500 gl,44.6,4,91,67,80,japan
+renault lecar deluxe,40.9,4,85,,80,europe
+subaru dl,33.8,4,97,67,80,japan
+vokswagen rabbit,29.8,4,89,62,80,europe
+datsun 280-zx,32.7,6,168,132,80,japan
+mazda rx-7 gs,23.7,3,70,100,80,japan
+triumph tr7 coupe,35,4,122,88,80,europe
+ford mustang cobra,23.6,4,140,,80,usa
+honda accord,32.4,4,107,72,80,japan
+plymouth reliant,27.2,4,135,84,81,usa
+buick skylark,26.6,4,151,84,81,usa
+dodge aries wagon (sw),25.8,4,156,92,81,usa
+chevrolet citation,23.5,6,173,110,81,usa
+plymouth reliant,30,4,135,84,81,usa
+toyota starlet,39.1,4,79,58,81,japan
+plymouth champ,39,4,86,64,81,usa
+honda civic 1300,35.1,4,81,60,81,japan
+subaru,32.3,4,97,67,81,japan
+datsun 210 mpg,37,4,85,65,81,japan
+toyota tercel,37.7,4,89,62,81,japan
+mazda glc 4,34.1,4,91,68,81,japan
+plymouth horizon 4,34.7,4,105,63,81,usa
+ford escort 4w,34.4,4,98,65,81,usa
+ford escort 2h,29.9,4,98,65,81,usa
+volkswagen jetta,33,4,105,74,81,europe
+renault 18i,34.5,4,100,,81,europe
+honda prelude,33.7,4,107,75,81,japan
+toyota corolla,32.4,4,108,75,81,japan
+datsun 200sx,32.9,4,119,100,81,japan
+mazda 626,31.6,4,120,74,81,japan
+peugeot 505s turbo diesel,28.1,4,141,80,81,europe
+volvo diesel,30.7,6,145,76,81,europe
+toyota cressida,25.4,6,168,116,81,japan
+datsun 810 maxima,24.2,6,146,120,81,japan
+buick century,22.4,6,231,110,81,usa
+oldsmobile cutlass ls,26.6,8,350,105,81,usa
+ford granada gl,20.2,6,200,88,81,usa
+chrysler lebaron salon,17.6,6,225,85,81,usa
+chevrolet cavalier,28,4,112,88,82,usa
+chevrolet cavalier wagon,27,4,112,88,82,usa
+chevrolet cavalier 2-door,34,4,112,88,82,usa
+pontiac j2000 se hatchback,31,4,112,85,82,usa
+dodge aries se,29,4,135,84,82,usa
+pontiac phoenix,27,4,151,90,82,usa
+ford fairmont futura,24,4,140,92,82,usa
+amc concord dl,23,4,151,,82,usa
+volkswagen rabbit l,36,4,105,74,82,europe
+mazda glc custom l,37,4,91,68,82,japan
+mazda glc custom,31,4,91,68,82,japan
+plymouth horizon miser,38,4,105,63,82,usa
+mercury lynx l,36,4,98,70,82,usa
+nissan stanza xe,36,4,120,88,82,japan
+honda accord,36,4,107,75,82,japan
+toyota corolla,34,4,108,70,82,japan
+honda civic,38,4,91,67,82,japan
+honda civic (auto),32,4,91,67,82,japan
+datsun 310 gx,38,4,91,67,82,japan
+buick century limited,25,6,181,110,82,usa
+oldsmobile cutlass ciera (diesel),38,6,262,85,82,usa
+chrysler lebaron medallion,26,4,156,92,82,usa
+ford granada l,22,6,232,112,82,usa
+toyota celica gt,32,4,144,96,82,japan
+dodge charger 2.2,36,4,135,84,82,usa
+chevrolet camaro,27,4,151,90,82,usa
+ford mustang gl,27,4,140,86,82,usa
+vw pickup,44,4,97,52,82,europe
+dodge rampage,32,4,135,84,82,usa
+ford ranger,28,4,120,79,82,usa
+chevy s-10,31,4,119,82,82,usa
